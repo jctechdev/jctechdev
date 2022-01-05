@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jctechdev
+- 👋 Hi, I’m @jeffchavez.dev
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on other works
